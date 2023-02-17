@@ -2,6 +2,10 @@
   "private": true,
   "name": "simple-design-react",
   "version": "1.0.0",
+  "author": {
+    "name": "xiong-ling",
+    "email": "1796022504@qq.com"
+  },
   "scripts": {
     "start": "dumi dev",
     "docs:build": "dumi build",
